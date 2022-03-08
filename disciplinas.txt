@@ -1,3 +1,5 @@
 Algoritmos e Programação
 Compiladores
 Engenharia de Software
+
+Planejamento e Controle de Desenvolvimento de Software
